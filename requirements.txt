@@ -1,0 +1,4 @@
+pandas
+numpy
+seaborn
+-e .                  # connect it with  setup.py
